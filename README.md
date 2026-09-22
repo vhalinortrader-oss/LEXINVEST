@@ -1,12 +1,15 @@
 # LEXINVEST
 
-Dashboard de analise quantitativa de investimentos para Brasil e Estados Unidos, desenvolvido em Python e Streamlit.
+Dashboard de analise quantitativa de investimentos para carteira de renda passiva com ativos do Brasil e Estados Unidos, desenvolvido em Python e Streamlit.
 
 ## Funcionalidades
 
 - Analise de ativos brasileiros e norte-americanos
 - Cotacao e conversao BRL/USD
-- Indicadores tecnicos: medias moveis, RSI e MACD
+- Indicadores tecnicos: fundo de investimentos, fundos imobiliários, tesouro direto, ações.
+- Análises de renda passiva 
+- Gráfico de rendimentos 
+- gráfico de divisão por porcentagem de ativos
 - Analise de risco: volatilidade, drawdown e Sharpe
 - Aprendizado de maquina para estimar probabilidade de alta
 - Ranking por perfil: conservador, moderado e agressivo
