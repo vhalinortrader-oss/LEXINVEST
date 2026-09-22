@@ -1,0 +1,6 @@
+=== 巴西 Tesouro Reserva (100% Selic) ===
+Bruto: R$ 11,502.07 | Líquido: R$ 11,276.60 | Rendimento líq: R$ 1,276.60
+
+=== 美国 T-Bill (USD) ===
+Bruto: $ 1,856.19 | Líquido: $ 1,852.80
+Líquido em BRL: R$ 10,005.12 | Rendimento líq: R$ 5.12

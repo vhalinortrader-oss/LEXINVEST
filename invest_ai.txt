@@ -1,0 +1,40 @@
+invest_ai/
+├── app.py
+├── config.py
+├── requirements.txt
+├── README.md
+├── .env.example
+│
+├── data/
+│   └── .gitkeep
+│
+├── models/
+│   ├── __init__.py
+│   ├── risk.py
+│   ├── projections.py
+│   └── scoring.py
+│
+├── analysis/
+│   ├── __init__.py
+│   ├── technical.py
+│   ├── fundamental.py
+│   ├── portfolio.py
+│   └── institutions.py
+│
+├── services/
+│   ├── __init__.py
+│   ├── market_data.py
+│   ├── exchange_rate.py
+│   └── investment_data.py
+│
+├── utils/
+│   ├── __init__.py
+│   ├── calculations.py
+│   └── charts.py
+│
+└── pages/
+    ├── 01_Mercados.py
+    ├── 02_Ativos.py
+    ├── 03_Carteira.py
+    ├── 04_Projecoes.py
+    └── 05_Instituicoes.py
